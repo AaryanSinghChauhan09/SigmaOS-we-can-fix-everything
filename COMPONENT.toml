@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-we-can-fix-everything"
+tier = 4
+description = "Automated system repair, dependency fixer, and kernel panic recovery tool"
+contracts = ['system-repair-tool', 'broken-package-fixer', 'initramfs-rebuilder']
+upstream_inspirations = ['https://github.com/omacom/wecanfixeverything']
